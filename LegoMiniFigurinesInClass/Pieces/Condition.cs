@@ -4,7 +4,13 @@ using System.Text;
 
 namespace LegoMiniFigurinesInClass.Pieces
 {
-    class Condition
+    enum Condition
     {
+        Cracked,
+        Old,
+        Used,
+        Broken,
+        OnFire,
+        Refurbished,
     }
 }

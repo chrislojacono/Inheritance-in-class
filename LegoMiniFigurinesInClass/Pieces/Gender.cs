@@ -4,7 +4,12 @@ using System.Text;
 
 namespace LegoMiniFigurinesInClass.Pieces
 {
-    class Gender
+    enum Gender
     {
+        Unspecified,
+        Female,
+        Male,
+        NonBinary,
+        Agender,
     }
 }

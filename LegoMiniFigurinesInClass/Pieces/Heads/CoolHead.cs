@@ -4,19 +4,18 @@ using System.Text;
 
 namespace LegoMiniFigurinesInClass.Pieces.Heads
 {
-    class CoolHead
+    class CoolHead : Head
     {
         public string Hair { get; set; }
-        public string Eyewear { get; set; }
         public Gender Gender { get; set; }
-        public Color EyeColor { get; set; }
+
 
         public void Chew()
         {
             Console.WriteLine($"The {Gender} head with {Hair} hair is wearing {Eyewear} and chilling.");
         }
 
-        public void Greet()
+        public override void Greet()
         {
             Console.WriteLine($"The {Gender} head with {Hair} hair is wearing {Eyewear} and says 'sup brah'");
         }

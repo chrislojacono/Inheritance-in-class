@@ -1,0 +1,13 @@
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\obj\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.csprojAssemblyReference.cache
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\obj\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.AssemblyInfoInputs.cache
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\obj\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.AssemblyInfo.cs
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\obj\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.csproj.CoreCompileInputs.cache
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\bin\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.exe
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\bin\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.deps.json
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\bin\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.runtimeconfig.json
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\bin\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.runtimeconfig.dev.json
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\bin\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.dll
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\bin\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.pdb
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\obj\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.dll
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\obj\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.pdb
+C:\Users\cloja\source\repos\LegoMiniFigurinesInClass\LegoMiniFigurinesInClass\obj\Debug\netcoreapp3.1\LegoMiniFigurinesInClass.genruntimeconfig.cache

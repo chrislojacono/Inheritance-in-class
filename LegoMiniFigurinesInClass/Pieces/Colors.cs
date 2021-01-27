@@ -4,7 +4,15 @@ using System.Text;
 
 namespace LegoMiniFigurinesInClass.Pieces
 {
-    class Colors
+    enum Color
     {
+        Brown,
+        Black,
+        Blue,
+        Green,
+        Yellow,
+        Red,
+        Hazel,
+        Orange,
     }
 }

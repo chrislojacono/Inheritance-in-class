@@ -12,16 +12,19 @@ namespace LegoMiniFigurinesInClass
         public Head Head { get; }
         public Torso Torso { get; }
         public LegsBase Legs { get; }
+        public string Name { get; }
 
-        public MiniFigure(Head head, Torso torso, LegsBase legs)
+        public MiniFigure(Head head, Torso torso, LegsBase legs, string name)
         {
             Head = head;
             Legs = legs;
             Torso = torso;
+            Name = name;
         }
 
         public void MeetSomeone()
         {
+            Console.WriteLine($"{Name} is starting the greeting process");
             Legs.Walk();
             Torso.Wave();
             Head.Greet();

@@ -4,6 +4,7 @@ using LegoMiniFigurinesInClass.Pieces;
 using LegoMiniFigurinesInClass.Pieces.Torsos;
 using LegoMiniFigurinesInClass.Pieces.Legs;
 
+
 namespace LegoMiniFigurinesInClass
 {
     class Program
@@ -32,7 +33,7 @@ namespace LegoMiniFigurinesInClass
                 torso.Wave();
             }
 
-            var skullPoliceSpider = new MiniFigure(head, policeTorso, new SpiderLegs());
+            var skullPoliceSpider = new MiniFigure(head, policeTorso, new SpiderLegs(), "Billy Jacobsen");
             skullPoliceSpider.MeetSomeone();
 
         }

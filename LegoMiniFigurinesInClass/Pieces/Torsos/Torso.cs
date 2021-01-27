@@ -4,7 +4,11 @@ using System.Text;
 
 namespace LegoMiniFigurinesInClass.Pieces.Torsos
 {
+<<<<<<< HEAD
     class Torso
+=======
+    abstract class Torso
+>>>>>>> main
     {
         public Clothing Clothing { get; set; }
         public Color Color { get; set; }

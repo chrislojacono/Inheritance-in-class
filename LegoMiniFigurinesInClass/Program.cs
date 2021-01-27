@@ -20,6 +20,16 @@ namespace LegoMiniFigurinesInClass
             pirateWithHook.Wave();
             pirateWithoutHook.Wave();
 
+
+            var skeletonTorso = new SkeletonTorso(false, Condition.OnFire);
+            var policeTorso = new PoliceOfficerTorso();
+
+            var torsos = new Torso[] { pirateWithoutHook, pirateWithHook, skeletonTorso, policeTorso };
+
+            foreach (var torso in torsos)
+            {
+                torso.Wave();
+            }
         }
     }
 }

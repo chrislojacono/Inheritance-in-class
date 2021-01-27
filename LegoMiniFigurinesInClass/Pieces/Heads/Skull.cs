@@ -4,11 +4,10 @@ using System.Text;
 
 namespace LegoMiniFigurinesInClass.Pieces.Heads
 {
-    class Skull
+    class Skull : Head
     {
         public Condition Condition { get; set; }
         public Color Color { get; set; }
-        public Color EyeColor { get; set; }
 
         public void Wail()
         {
@@ -21,7 +20,7 @@ namespace LegoMiniFigurinesInClass.Pieces.Heads
                 Console.WriteLine($"The {Color} skull wails mournfully because it is dead and {Condition} and not on fire.");
             }
         }
-        public void Greet()
+        public override void Greet()
         {
             if(Condition == Condition.OnFire)
             {

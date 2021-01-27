@@ -4,9 +4,8 @@ using System.Text;
 
 namespace LegoMiniFigurinesInClass.Pieces.Heads
 {
-    class NerdHead
+    class NerdHead : Head
     {
-        public string EyeWear { get; set; }
         public bool Braces { get; set; }
         public string Hat { get; set; }
         public bool Acne { get; set; }
@@ -16,7 +15,7 @@ namespace LegoMiniFigurinesInClass.Pieces.Heads
             Console.WriteLine($"The nerd wearing a {Hat} says 'Actually... I am a very smart'");
         }
 
-        public void Greet()
+        public override void Greet()
         {
             Console.WriteLine($"The nerd wearing a {Hat} says 'I've calculated the chances of us ever seeing each other again. It is zero.'");
         }

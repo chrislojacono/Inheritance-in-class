@@ -4,12 +4,13 @@ using System.Text;
 
 namespace LegoMiniFigurinesInClass.Pieces
 {
-    enum Gender
+    enum Condition
     {
-        Unspecified,
-        Female,
-        Male,
-        NonBinary,
-        Agender,
+        Cracked,
+        Old,
+        Used,
+        Broken,
+        OnFire,
+        Refurbished,
     }
 }

@@ -6,6 +6,10 @@ namespace LegoMiniFigurinesInClass.Pieces.Torsos
 {
     enum Clothing
     {
+<<<<<<< HEAD
+        None,
+=======
+>>>>>>> main
         Tshirt,
         Tanktop,
         Hoodie,

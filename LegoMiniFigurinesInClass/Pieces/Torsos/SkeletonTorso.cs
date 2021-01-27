@@ -19,7 +19,7 @@ namespace LegoMiniFigurinesInClass.Pieces.Torsos
         {
             if(Condition == Condition.Broken)
             {
-                Console.WriteLine($"The skeleton torso is broiken and can'y wave.");
+                Console.WriteLine($"The skeleton torso is broken and can'y wave.");
             }
             else
             {
